@@ -1,0 +1,21 @@
+{
+  "name": "db-proxy",
+  "version": "1.0.0",
+  "description": "Proxy PostgreSQL read-only API via Express.js",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node src/index.js",
+    "install-service": "node scripts/install-service.js",
+    "uninstall-service": "node scripts/uninstall-service.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-rate-limit": "^7.5.0",
+    "morgan": "^1.10.0",
+    "node-windows": "^1.0.0-beta.8",
+    "pg": "^8.13.1"
+  }
+}

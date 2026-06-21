@@ -1,0 +1,4 @@
+DB Proxy running on port 3001
+::ffff:127.0.0.1 - POST /api/query HTTP/1.1 200 10249 - 64.648 ms
+::ffff:127.0.0.1 - POST /api/query HTTP/1.1 200 10052 - 39.968 ms
+::ffff:127.0.0.1 - POST /api/query HTTP/1.1 200 14142 - 68.203 ms

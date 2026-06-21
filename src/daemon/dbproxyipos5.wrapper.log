@@ -1,0 +1,2 @@
+2026-06-21 17:43:36 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Proxy Ipos 5\node_modules\node-windows\lib\wrapper.js" --file "C:\Proxy Ipos 5\src\index.js" --scriptoptions= --log "DBProxyIPOS5 wrapper" --grow 0.5 --wait 2 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2026-06-21 17:43:36 - Started 11460
